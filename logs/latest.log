@@ -1,0 +1,44 @@
+[15:06:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:06:14] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:06:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:06:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:06:14] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:06:14] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:06:14] [main/INFO]: Reloading ResourceManager: N-TSF-DP.zip, barney.zip, dropscreen.zip, hammer.zip, minnowski.zip
+[15:06:16] [Worker-Main-11/INFO]: Loaded 0 recipes
+[15:06:16] [Worker-Main-11/INFO]: Loaded 40 advancements
+[15:06:18] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[15:06:18] [Server thread/INFO]: Loading properties
+[15:06:18] [Server thread/INFO]: Default game type: ADVENTURE
+[15:06:18] [Server thread/INFO]: Generating keypair
+[15:06:18] [Server thread/INFO]: Starting Minecraft server on *:25582
+[15:06:18] [Server thread/INFO]: Using default channel type
+[15:06:18] [Server thread/INFO]: Preparing level "Terra_Swoop_Force"
+[15:06:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:06:19] [Server thread/INFO]: Preparing spawn area: 0%
+[15:06:19] [Server thread/INFO]: Preparing spawn area: 0%
+[15:06:19] [Server thread/INFO]: Time elapsed: 877 ms
+[15:06:19] [Server thread/INFO]: Done (0.978s)! For help, type "help"
+[15:06:26] [User Authenticator #1/INFO]: UUID of player RedYosh is 4f12d4bf-d31a-4d6d-bff6-6024c90cba1a
+[15:06:26] [Server thread/INFO]: RedYosh[/192.168.1.4:57582] logged in with entity id 393 at (26.038029790853315, 55.0, 2.6925678135999203)
+[15:06:26] [Server thread/INFO]: RedYosh joined the game
+[15:06:30] [Server thread/INFO]: RedYosh lost connection: Disconnected
+[15:06:30] [Server thread/INFO]: RedYosh left the game
+[15:06:33] [User Authenticator #2/INFO]: UUID of player RedYosh is 4f12d4bf-d31a-4d6d-bff6-6024c90cba1a
+[15:06:33] [Server thread/INFO]: RedYosh[/192.168.1.4:57588] logged in with entity id 394 at (26.038029790853315, 55.0, 2.6925678135999203)
+[15:06:33] [Server thread/INFO]: RedYosh joined the game
+[15:06:37] [Server thread/INFO]: RedYosh lost connection: Disconnected
+[15:06:37] [Server thread/INFO]: RedYosh left the game
+[15:07:04] [Server thread/INFO]: Stopping the server
+[15:07:04] [Server thread/INFO]: Stopping server
+[15:07:04] [Server thread/INFO]: Saving players
+[15:07:04] [Server thread/INFO]: Saving worlds
+[15:07:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§6Terra Swoop Force §r- §cNoxcrew]'/minecraft:overworld
+[15:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (Terra_Swoop_Force): All chunks are saved
+[15:07:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§6Terra Swoop Force §r- §cNoxcrew]'/minecraft:the_nether
+[15:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:07:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§6Terra Swoop Force §r- §cNoxcrew]'/minecraft:the_end
+[15:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (Terra_Swoop_Force): All chunks are saved
+[15:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
